@@ -1,0 +1,6 @@
+com\restful\session\PersonalFacade.class
+com\restful\entidades\Personal.class
+com\restful\services\AplicationConfig.class
+com\restful\session\AbstractFacade.class
+com\restful\entidades\Personal_.class
+com\restful\services\PersonalRest.class
